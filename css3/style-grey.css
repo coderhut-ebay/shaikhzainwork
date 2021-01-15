@@ -60,7 +60,7 @@ a:hover {
 	font-family: 'Montserrat', sans-serif;
 }
 .hdr-logo a span {
-	color: #d3d3d3;
+	color: #aaaaaa;
 }
 .hdr-right h5 {
 	margin-bottom: 0;
@@ -68,7 +68,7 @@ a:hover {
 }
 
 .hdr-btm {
-	background-color: #d3d3d3;
+	background-color: #aaaaaa;
 }
 #menu-switcher,
 .navbar-header > label,
@@ -185,7 +185,7 @@ h3.item-con-heading span {
 	display: block;
 	color: #fff;
 	font-size: 20px;
-	background: #d3d3d3;
+	background: #aaaaaa;
 	padding: 15px 30px;
 	border-radius: 90px 0 90px 0;
 	z-index: 2;
@@ -217,7 +217,7 @@ h3.item-con-heading:before {
 }
 h3.item-con-heading:hover:before,
 h3.item-con-heading:hover:after {
-    background-color: #d3d3d3;
+    background-color: #aaaaaa;
 }
 h3.item-con-heading:hover span {
     background-color: #f5f5f5;
@@ -225,7 +225,7 @@ h3.item-con-heading:hover span {
 
 .item-txt {
 	padding: 15px 15px 5px;
-	border: 1px solid #d3d3d3;
+	border: 1px solid #aaaaaa;
 }
 
 .item-txt h6,
@@ -234,12 +234,12 @@ h3.item-con-heading:hover span {
 .item-txt h3,
 .item-txt h2,
 .item-txt h1 {
-	color: #d3d3d3;
+	color: #aaaaaa;
 	margin-bottom: 15px;
 }
 
 .item-txt i {
-	color: #d3d3d3;
+	color: #aaaaaa;
 	margin-right: 5px;
 }
 
@@ -273,7 +273,7 @@ h3.featured_category_heading span {
 	display: block;
 	color: #fff;
 	font-size: 20px;
-	background: #d3d3d3;
+	background: #aaaaaa;
 	padding: 15px 30px;
 	border-radius: 90px 0 90px 0;
 	z-index: 2;
@@ -305,7 +305,7 @@ h3.featured_category_heading:before {
 }
 h3.featured_category_heading:hover:before,
 h3.featured_category_heading:hover:after {
-    background-color: #d3d3d3;
+    background-color: #aaaaaa;
 }
 h3.featured_category_heading:hover span {
     background-color: #f5f5f5;
@@ -339,7 +339,7 @@ h3.featured_category_heading:hover span {
 	top: 80%;
 	transform: translateY(-50%);
 	padding: 10px 52px;
-	background-color: #d3d3d3;
+	background-color: #aaaaaa;
 	color: #fff;
 	border-left: 3px solid #f5f5f5;
     transition: all 0.5s ease;
@@ -347,7 +347,7 @@ h3.featured_category_heading:hover span {
 }
 .fc-tag:hover {
     background-color: #f5f5f5;
-    border-left: 3px solid #d3d3d3;
+    border-left: 3px solid #aaaaaa;
 }
 
 /* Tab Area */
@@ -421,7 +421,7 @@ label.tab8.tab_title, label.tab3.tab_title {
 }
 label.tab_title:hover {
     color:#000;
-    border-bottom:3px solid #d3d3d3;
+    border-bottom:3px solid #aaaaaa;
     position:relative;
     top:2px;
     background-color:#f9f9f9;
@@ -445,7 +445,7 @@ label.tab_title:hover {
 #tab7:checked ~ .tab_top .tab7,
 #tab8:checked ~ .tab_top .tab8{
     color:#000;
-    border-bottom:3px solid #d3d3d3;
+    border-bottom:3px solid #aaaaaa;
     position:relative;
     top:2px;
     background-color:#f9f9f9;
@@ -519,7 +519,7 @@ label.tab_title:hover {
 /* Accorian */
 
 #aspect-content {
-    border-top: 1px solid #d3d3d3;
+    border-top: 1px solid #aaaaaa;
     margin-bottom: 30px;
 }
 .aspect-tab {
@@ -529,7 +529,7 @@ label.tab_title:hover {
     margin: 0 auto;
     background-color: #fff;
     opacity: 1;
-    border-bottom: 1px solid #d3d3d3;
+    border-bottom: 1px solid #aaaaaa;
 }
 .aspect-input {
     display: none;
@@ -590,7 +590,7 @@ label.tab_title:hover {
     text-align: left;
     vertical-align: middle;
     font-size: 18px;
-    color: #d3d3d3;
+    color: #aaaaaa;
 }
 .aspect-stat {
     width: 40%;
@@ -639,7 +639,7 @@ label.tab_title:hover {
 .help a {
     display: inline-block;
     padding: 10px 15px;
-    background-color: #d3d3d3;
+    background-color: #aaaaaa;
     color: #fff;
     margin-bottom: 10px;
 }
@@ -659,7 +659,7 @@ label.tab_title:hover {
     font-family: 'Montserrat', sans-serif;
 }
 .ftr-logo a span {
-	color: #d3d3d3;
+	color: #aaaaaa;
 }
 
 /* LG Device :992px. */
