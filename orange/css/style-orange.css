@@ -384,18 +384,17 @@ h3.featured_category_heading:hover span {
     display:none;
 }
 .tab_title {
-    color:#000000;
+    color:#fff;
     display:block;
     float:left;
     cursor:pointer;
-    
-    font-size:18px;
+    font-size:16px;
     font-weight:700;
     text-align:center;
     margin:0;
-    padding:20px 51px;
+    padding:9px 51px;
     text-transform:uppercase;
-    background-color:#ffffff;
+    background-color:#D8AA9A;
 }
 .policy-tab .tab_title {
     width: 20%;
@@ -412,7 +411,7 @@ label.tab8.tab_title, label.tab3.tab_title {
     float: right;
 }
 .tab_top{
-    border-bottom:3px solid #e5e5e5;
+    /*border-bottom:3px solid #e5e5e5;*/
 }
 .tab_content {
     width: 100%;
@@ -425,10 +424,10 @@ label.tab8.tab_title, label.tab3.tab_title {
 }
 label.tab_title:hover {
     color:#D8AA9A;
-    border-bottom:3px solid #D8AA9A;
+    /*border-bottom:3px solid #D8AA9A;*/
     position:relative;
-    top:2px;
-    background-color:#f9f9f9;
+    top:0;
+    background-color:#E8DBD6;
 }
 #tab1:checked ~ .tab_content #content1,
 #tab2:checked ~ .tab_content #content2,
@@ -449,10 +448,10 @@ label.tab_title:hover {
 #tab7:checked ~ .tab_top .tab7,
 #tab8:checked ~ .tab_top .tab8{
     color:#D8AA9A;
-    border-bottom:3px solid #D8AA9A;
+    /*border-bottom:3px solid #D8AA9A;*/
     position:relative;
-    top:2px;
-    background-color:#f9f9f9;
+    top:0;
+    background-color:#E8DBD6;
 }
 #content2, #content3, #content4, #content5, #content6, #content7, #content8, #content9, .tab_content td{
     color:#000000;
@@ -652,7 +651,7 @@ label.tab_title:hover {
 /* Footer */
 
 .ftr-logo {
-	padding-bottom: 15px;
+	padding-top: 15px;
 }
 .ftr-logo a {
     display: inline-block;
